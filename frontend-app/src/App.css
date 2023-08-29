@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.success-rate {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.message-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.message-item {
+  background-color: #f2f2f2;
+  border: 1px solid #ddd;
+  margin: 5px 0;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.message-field {
+  margin: 5px 0;
+}
